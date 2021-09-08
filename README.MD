@@ -2,11 +2,13 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ffboke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## GitHub stars
+
 [![coisini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 擅长语言卡片
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffboke)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffboke&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 掌握的技能
 
