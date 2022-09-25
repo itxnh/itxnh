@@ -10,6 +10,7 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 一直记得一句话：坚持别人坚持不了的坚持，方能成就别人无法成就的成就！加油🤗
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=坚持别人坚持不了的坚持，方能成就别人无法成就的成就&font=Roboto" />
 
 想要了解更多关于我的信息，[点击即可到达我的博客](https://www.sbitx.top)
 
@@ -23,7 +24,7 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 - 微信公众号：程序员峰峰
 
-- 当前已经有![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)个小伙伴访问我的GitHub啦🚁
+- 当前已经有 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) 个小伙伴访问我的GitHub啦🚁
 
 ## ✍CSDN and bilibili
 
