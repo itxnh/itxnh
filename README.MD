@@ -45,10 +45,13 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=vuepress_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/ffboke/tp6api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=tp6api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
+<!-- <a href="https://github.com/ffboke/tp6api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=tp6api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>     -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
