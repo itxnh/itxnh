@@ -29,11 +29,10 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
 
 - ## GitHub stars
 
-  ![coisini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&theme=radical&include_all_commits=true)
+![](https://stats.justsong.cn/api/csdn?id=fengfengboke&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=400286213&theme=dark)
 
-## github 关注活跃图表
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ffboke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -41,7 +40,7 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffboke&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ffboke/ffboke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ffboke's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ffboke/python-project-blueprint">
@@ -52,27 +51,6 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
 <a href="https://github.com/ffboke/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/ffboke/ffboke/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/ffboke
-[3]: https://www.linkedin.com/in/heinz-martin/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
