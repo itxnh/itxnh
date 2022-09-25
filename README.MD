@@ -23,7 +23,7 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 - 微信公众号：程序员峰峰
 
-当前已经有![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)个小伙伴访问我的GitHub啦🚁
+- 当前已经有![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)个小伙伴访问我的GitHub啦🚁
 
 ## ✍CSDN and bilibili
 
