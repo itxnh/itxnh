@@ -27,12 +27,10 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
 ## 主页访问量统计
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-- ## GitHub stars
+## ✍CSDN and bilibili
 
 ![](https://stats.justsong.cn/api/csdn?id=fengfengboke&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=400286213&theme=dark)
-
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -43,13 +41,13 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ffboke's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ffboke/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ffboke/vuepress_blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=vuepress_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/ffboke/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ffboke/tp6api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=tp6api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- Resources -->
