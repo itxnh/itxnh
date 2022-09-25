@@ -1,3 +1,9 @@
+<!-- 个人介绍 -->
+
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+
 我是程序员峰峰，一个还在上大三的小菜鸟，立志要成为一名全栈工程师，
 
 未来几年，将坚持自己的梦想，当然也会在 GitHub 这个大家庭里继续贡献自己的代码，同时也为了能学到更多...
