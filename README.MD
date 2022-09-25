@@ -1,6 +1,6 @@
 ## 🔥About me
 
-Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是呢，奈何我的英语水平太差了...
+Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢，奈何我的英语水平太差了...
 
 我是程序员峰峰，一个还在上大三的小菜鸟，立志要成为一名全栈工程师（秃头🤔）
 
@@ -23,9 +23,7 @@ Hi 大家好，本来呢，这里想用英语做一下自我介绍的，但是�
 
 - 微信公众号：程序员峰峰
 
-
-## 主页访问量统计
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+当前已经有![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)个小伙伴访问我的GitHub啦🚁
 
 ## ✍CSDN and bilibili
 
