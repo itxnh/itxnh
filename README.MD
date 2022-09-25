@@ -10,7 +10,7 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 一直记得一句话：坚持别人坚持不了的坚持，方能成就别人无法成就的成就！加油🤗
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=坚持别人坚持不了的坚持，方能成就别人无法成就的成就&font=Roboto" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://github.com/frontendBoy-Wang)
 
 想要了解更多关于我的信息，[点击即可到达我的博客](https://www.sbitx.top)
 
