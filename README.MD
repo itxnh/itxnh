@@ -11,7 +11,7 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://github.com/frontendBoy-Wang)
 
-想要了解更多关于我的信息，[点击即可到达我的博客](https://www.sbitx.top)
+想要了解更多关于我的信息，[点击即可到达我的博客](https://www.itxnh.com)
 
 当然你也可以通过以下方式找到我...
 
@@ -29,23 +29,6 @@ Hi大家好，本来呢，这里想用英语做一下自我介绍的，但是呢
 
 ![](https://stats.justsong.cn/api/csdn?id=fengfengboke&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=400286213&theme=dark)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ffboke/ffboke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffboke&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/ffboke/ffboke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffboke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ffboke's GitHub Stats" />
-</a>
-
-<a href="https://github.com/ffboke/vuepress_blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=vuepress_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/ffboke/Upgraded">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffboke&repo=Upgraded&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
